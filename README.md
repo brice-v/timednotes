@@ -17,4 +17,4 @@ Just a quick notes app which timestamps everything put into it, only usable from
 ```
 
 ### Usage
-`nim c -r nim_timestamp.nim` to build and run the executable.  Take notes and hit enter to record.  `.exit` to leave the prompt or `CTRL+C`.
+`nim c -r timednotes.nim` to build and run the executable.  Take notes and hit enter to record.  `.exit` to leave the prompt or `CTRL+C`.
