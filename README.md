@@ -16,5 +16,13 @@ Just a quick notes app which timestamps everything put into it, only usable from
 11:00:21 2019-02-15 >> .exit
 ```
 
+Creates this as a text file labeled `notesDATE.txt` where date is the current date in the directory that runs the executable.
+
 ### Usage
 `nim c -r timednotes.nim` to build and run the executable.  Take notes and hit enter to record.  `.exit` to leave the prompt or `CTRL+C`.
+
+### Requirements
+Download nim from nim-lang.org for your platform.
+
+### Improvements
+A lot to improve.
